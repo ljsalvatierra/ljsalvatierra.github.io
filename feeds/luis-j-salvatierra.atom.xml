@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ljsalvatierra</title><link href="/" rel="alternate"></link><link href="/feeds/luis-j-salvatierra.atom.xml" rel="self"></link><id>/</id><updated>2014-10-13T00:00:00+02:00</updated><entry><title>HPC-Exercises</title><link href="/hpc-exercises.html" rel="alternate"></link><updated>2014-10-13T00:00:00+02:00</updated><author><name>Luis J. Salvatierra</name></author><id>tag:,2014-10-13:hpc-exercises.html</id><summary type="html">&lt;p&gt;High Performance Computing exercises for the High Performance Processors
+course at Basque Country university (UPV/EHU).&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/ljsalvatierra/hpc-exercises" target="_blank"&gt;Link&lt;/a&gt;.&lt;/p&gt;</summary><category term="HPC"></category><category term="UPV/EHU"></category></entry></feed>
