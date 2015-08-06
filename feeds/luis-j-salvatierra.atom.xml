@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ljsalvatierra</title><link href="https://ljsalvatierra.github.io/" rel="alternate"></link><link href="https://ljsalvatierra.github.io/feeds/luis-j-salvatierra.atom.xml" rel="self"></link><id>https://ljsalvatierra.github.io/</id><updated>2015-07-20T00:00:00+02:00</updated><entry><title>EuroPython 2015</title><link href="https://ljsalvatierra.github.io/europython-2015.html" rel="alternate"></link><updated>2015-07-20T00:00:00+02:00</updated><author><name>Luis J. Salvatierra</name></author><id>tag:ljsalvatierra.github.io,2015-07-20:europython-2015.html</id><summary type="html">&lt;p&gt;First day, I'm not sleeping :P
-&lt;img alt="EuroPython 2015" src="images/europython2015-07-19_01.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;Having a bit of fun after a very long day!
-&lt;img alt="EuroPython 2015" src="images/europython2015-07-21_01.jpeg" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ljsalvatierra</title><link href="https://ljsalvatierra.github.io/" rel="alternate"></link><link href="https://ljsalvatierra.github.io/feeds/luis-j-salvatierra.atom.xml" rel="self"></link><id>https://ljsalvatierra.github.io/</id><updated>2015-07-20T00:00:00+02:00</updated><entry><title>EuroPython 2015</title><link href="https://ljsalvatierra.github.io/europython-2015.html" rel="alternate"></link><updated>2015-07-20T00:00:00+02:00</updated><author><name>Luis J. Salvatierra</name></author><id>tag:ljsalvatierra.github.io,2015-07-20:europython-2015.html</id><summary type="html">&lt;p&gt;First day, I'm not sleeping :P&lt;/p&gt;
+&lt;p&gt;&lt;img alt="EuroPython 2015" src="images/europython2015-07-19_01.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;Having a bit of fun after a very long day!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="EuroPython 2015" src="images/europython2015-07-21_01.jpeg" /&gt;
 &lt;img alt="EuroPython 2015" src="images/europython2015-07-21_02.jpeg" /&gt;
 &lt;img alt="EuroPython 2015" src="images/europython2015-07-21_03.jpeg" /&gt;&lt;/p&gt;</summary><category term="EuroPython"></category><category term="Python"></category></entry></feed>
